@@ -11,7 +11,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me: insta:bycatt_2109
 - 😄 Pronouns: she/her
 -->
-- 🔭 I’m currently a high school student
-- 🌱 Learning python :3
-- 📫 insta: @bycatt_2109
-- 😄 Pronouns: she/her
+-  I’m currently a high school student!
+-  Learning python :3
+-  insta: @bycatt_2109
+-  Pronouns: she/her
+-  Languages: cantonese/chinese/english
